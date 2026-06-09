@@ -1,0 +1,5 @@
+Anomaly_Type,Total_Records,Percentage_of_Data
+Unusual Volume,14056,5.976393754889623
+Volatility Spike,18293,7.777900608864247
+Rolling 60D Extreme Drawdown,30955,13.161587128813906
+Any Anomaly,54944,23.361338821048335
